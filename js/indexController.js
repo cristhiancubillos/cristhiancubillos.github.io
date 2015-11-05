@@ -13,6 +13,4 @@ $(document).ready(function(){
 		mD.fadeOut(2000,efectos);
 
 	}
-
-
 	});
